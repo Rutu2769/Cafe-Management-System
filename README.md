@@ -1,2 +1,2 @@
 # Cafe-Management-System
-This project is application that manages menu of café, calculating total bill of customer, add  products in menu and manage products in café. This is user friendly application that help to user  order easily. User can easily use this application.
+The Cafe Management System is a web-based application developed using Java with Spring Boot and Hibernate ORM. The system is designed to help cafe owners efficiently manage day-to-day operations such as order processing, inventory management, employee tracking, and generating reports. The application streamlines cafe operations, offering features like menu management, order tracking, and billing.
